@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527669075014",
+    "firebase_url": "https://tadm-f188f.firebaseio.com",
+    "project_id": "tadm-f188f",
+    "storage_bucket": "tadm-f188f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527669075014:android:25336b380ca58661",
+        "android_client_info": {
+          "package_name": "com.example.giso.tadm_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527669075014-v5ob5652t4tvh4cufmoma2numnfjpir2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giso.tadm_firebase",
+            "certificate_hash": "207e0c9ba8a351ef6156ae280d2415e08f62bb20"
+          }
+        },
+        {
+          "client_id": "527669075014-dig65n8kq806u7bu9arc40v4bldja6nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADxVhFPC_SZuYCK0OoTGluskzZ2YidtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527669075014-dig65n8kq806u7bu9arc40v4bldja6nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

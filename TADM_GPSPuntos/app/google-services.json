@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "36313697080",
+    "firebase_url": "https://gpspuntos-3504e.firebaseio.com",
+    "project_id": "gpspuntos-3504e",
+    "storage_bucket": "gpspuntos-3504e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36313697080:android:a0acbaf35ffa7c3a",
+        "android_client_info": {
+          "package_name": "com.example.giso.tadm_gpspuntos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36313697080-34smvgfpfqtd01j27gepr4m7eiov40eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giso.tadm_gpspuntos",
+            "certificate_hash": "207e0c9ba8a351ef6156ae280d2415e08f62bb20"
+          }
+        },
+        {
+          "client_id": "36313697080-jmk1crnmfishnc8m1rrkuqjt5023k7j6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "36313697080-jmk1crnmfishnc8m1rrkuqjt5023k7j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61Ly6X_k1Qt4ilPqjhP_uPgdCIizbbuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36313697080-jmk1crnmfishnc8m1rrkuqjt5023k7j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
